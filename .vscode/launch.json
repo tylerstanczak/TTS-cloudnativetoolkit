@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "node",
+            "name": "Debug TTS-cloudnativetoolkit",
+            "request": "attach",
+            "address": "127.0.0.1",
+            "localRoot": "/Users/tylerstanczak/TTS-cloudnativetoolkit",
+            "remoteRoot": "/app",
+            "restart": true
+        }
+    ]
+}
